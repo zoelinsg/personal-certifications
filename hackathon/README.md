@@ -1,3 +1,3 @@
 # Hackathon
 
-- **[HackerRank](https://github.com/zoelinsg/personal-certifications/blob/main/courses/ai-courses.md)**
+- **[HackerRank](https://github.com/zoelinsg/personal-certifications/blob/main/hackathon/hackerrank-hackathon.md)**

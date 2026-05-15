@@ -5,7 +5,7 @@
 - **[AWS](https://github.com/zoelinsg/personal-certifications/blob/main/courses/aws-courses.md)**
 - **[CC](https://github.com/zoelinsg/personal-certifications/blob/main/courses/cc-courses.md)**
 - **[Claude](https://github.com/zoelinsg/personal-certifications/blob/main/courses/claude-courses.md)**
-- **[Cloudinary](https://github.com/zoelinsg/personal-certifications/blob/main/courses/claude-courses.md)**
+- **[Cloudinary](https://github.com/zoelinsg/personal-certifications/blob/main/courses/cloudinary-courses.md)**
 - **[CodeSignal](https://github.com/zoelinsg/personal-certifications/blob/main/courses/codesignal-courses.md)**
 - **[DataCamp](https://github.com/zoelinsg/personal-certifications/blob/main/courses/datacamp-courses.md)**
 - **[freeCodeCamp](https://github.com/zoelinsg/personal-certifications/blob/main/courses/freecodecamp-courses.md)**
